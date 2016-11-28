@@ -1,0 +1,50 @@
+#Home{
+
+	height: 1000px;
+	text-align: center;
+	padding-top: 20%;
+	color:black;
+	font-family:  "Comic Sans MS", cursive;
+	background: url('myImage/Home.jpg') no-repeat center center fixed;
+}
+
+#About{
+
+	height: 1000px;
+	text-align: center;
+	padding-top: 15%;
+	color:white;
+	font-family:  "Comic Sans MS", cursive;
+	background: url('myImage/About.jpg') no-repeat center center fixed;
+}
+
+#Portfolio{
+
+	height: 1000px;
+	width: auto;
+	text-align: center;
+	padding-top: 15%;
+	color:white;
+	font-family:  "Comic Sans MS", cursive;
+	background: url('myImage/Portaflio.jpg') no-repeat center center fixed;
+}
+
+#contact{
+
+	height: 1000px;
+	text-align: center;
+	padding-top: 5%;
+	color:black;
+	font-family:  "Comic Sans MS", cursive;
+	background: url('myImage/Contact.jpg') no-repeat center center fixed;
+}
+
+#contacto{
+
+	height: 1000px;
+	width: auto;
+	text-align: center;
+	padding-top: 5%;
+	color:white;
+	font-family:  "Comic Sans MS", cursive;
+}
